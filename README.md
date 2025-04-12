@@ -1,6 +1,6 @@
 # Prework - *ChangeClick*
 
-<img src="assets/first_app.gif" width=500 alt="prework app">
+<img src="assets/first_app.gif" width=300 alt="prework app">
 
 Submitted by: **Shaun Sheffey**
 
